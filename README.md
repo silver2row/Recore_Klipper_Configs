@@ -24,3 +24,15 @@ Enjoy...
 - Make additions or ideas known...
 - The Dual_Z steppers for the Maker Select Plus is a guess so far...
 	* The second Z_Axis smashes the endstop into the bed so far...ah?
+
+`Other Ideas...`
+
+- The odd.jpg photo is a print made w/ the Maker Select Plus by Monoprice
+- I cannot configure things correctly so far
+- The Z_Axes and the extruder seem to be off by a fair bit for now
+	* The Z_Axis (z1) now does not smash into the bed!
+	* The Extruder motor gets hot, i.e. a little too hot for comfort
+	* The print in the photo seems okay but...
+		* There should be a Z_Axis maneuver needing to take place
+		* This maneuver should bring the Z_Axes high while still printing
+		* So far, there is a disconnect and the Z_Axes rise w/out printing the part
